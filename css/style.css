@@ -55,21 +55,21 @@ table {
   background-color: #8c8c8c;
   width: 100%;
   height: 100%;
-  font-size: 13px;
+  font-size: 14px;
 }
 
 .zadanie {
   background-color: #b3b3b3;
   width: 100%;
   height: 100%;
-  font-size: 13px;
+  font-size: 14px;
 }
 
 .kartkowka {
   background-color: #8c8c8c;
   width: 100%;
   height: 100%;
-  font-size: 13px;
+  font-size: 14px;
 }
 
 @media screen and (max-width: 450px) {
